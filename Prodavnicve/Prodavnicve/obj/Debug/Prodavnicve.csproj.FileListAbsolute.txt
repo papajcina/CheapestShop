@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\bin\Debug\lista.mdf
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\bin\Debug\lista_log.ldf
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\bin\Debug\Prodavnicve.exe.config
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\bin\Debug\Prodavnicve.exe
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\bin\Debug\Prodavnicve.pdb
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\obj\Debug\Prodavnicve.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\obj\Debug\Prodavnicve.Form1.resources
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\obj\Debug\Prodavnicve.Properties.Resources.resources
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\obj\Debug\Prodavnicve.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\obj\Debug\Prodavnicve.exe
+C:\Users\User\source\repos\Prodavnicve\Prodavnicve\obj\Debug\Prodavnicve.pdb
